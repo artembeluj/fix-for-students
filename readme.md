@@ -1,0 +1,1 @@
+In this project, you need to fix the following: style code, global variables, protect users who are in the mute from sending messages.
